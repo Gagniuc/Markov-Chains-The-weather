@@ -1,6 +1,9 @@
 # :cloud: Markov Chains The weather
 Markov Chains - The weather - Visual Basic 6.0 (VB6)
 
+These applications use transition matrices to make predictions by using a Markov chain. For exemplification, the values from the transition matrix represent the transition probabilities between two states found in a sequence of observations (ex. s=RSRRSRRSRRRRSRRRSSSRRSRRRS). These two states are: Sunny and Rainy, or R and S. Based on the initial probability vector, the application calculates how the weather may be on a number of days. More in-depth information on these matters can be found in the primary source.
+
+
 ![screenshot](https://github.com/Gagniuc/Markov-Chains-The-weather/blob/main/Markov%20Chains%20-%20The%20weather.PNG)
 
 # References
